@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>1D Color Picker</title>
+    <meta charset="UTF-8" />
+  </head>
+
+  <body>
+    <div id="container" style="display: none">
+      <div id="label-container">
+				<label id="stretch" for="slider">HSV: 360°, 100%, 100%</label>
+				<label id="hsv" for="slider">HSV: 360°, 100%, 100%</label>
+        <label id="rgb" for="slider">RGB: 255, 255, 255</label>
+        <label id="hex" for="slider">HEX: #FFFFFF</label>
+      </div>
+    	<div id="slider-container">
+				<input id="slider" type="range" min="0" max="4294967295" step="1"></input>
+			</div>
+    </div>
+    <script src="src/index.js"></script>
+  </body>
+</html>
