@@ -1,5 +1,5 @@
 # 1d-color-picker
-A one-dimensional color picker
+<img src="screenshot.png" alt="Screenshot" width="1000"/>
 
 ## Description
 
