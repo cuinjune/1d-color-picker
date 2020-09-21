@@ -29,3 +29,6 @@ npm install dependencies
 npm start
 ```
 3. Open your web browser and navigate to http://localhost:1234
+
+## Author
+* [Zack Lee](https://www.cuinjune.com/about): an MPS Candidate at [NYU ITP](https://itp.nyu.edu).
