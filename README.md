@@ -5,8 +5,7 @@ A one-dimensional color picker
 
 This repo is the week2 assignment of the "Hand Held: Creative Tools for Phones" course at ITP.
 
-The assignment is to build a CSS slider toy that responds to user input and demonstrates the style through interaction.  
-I picked the `background-color` among the suggested CSS properties.
+The assignment is to build a CSS slider toy that responds to user input and demonstrates the style through interaction. I picked the `background-color` among the suggested CSS properties.
 
 My goal was to create a simple one-dimensional color picker that shows a color in HSV, RGB, and HEX format.  
 The input slider ranges from 0 to 4294967295 which is a 32-bit unsigned integer which is the maximum safe integer to use the bitwise and shift operators.
